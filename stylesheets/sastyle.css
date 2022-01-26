@@ -1,0 +1,67 @@
+
+
+.jumbotron {
+    background: url("https://static.toiimg.com/photo/63882496.cms?imgsize=137715");
+   
+    background-size: 100% 130%;
+
+    
+  }
+  .btn-primary{
+    background-color: #343a40;
+    border-color:  #343a40;
+
+  }
+
+.lead{
+    font-size: 19
+    margin-left: 80px;
+    color: black !important
+  }
+  .jumbotron p{
+    font-size: 2rem;
+    margin-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 60px;
+    color:green;}
+
+    .card {
+        align-items: center;
+        width:800px;
+        height:400px;
+        flex-direction: row;
+        /* border: 30px; */
+        /* padding: 30 px; */
+        margin-top:  2rem;
+    }
+
+     .card-img-top{
+        width:300px;
+        height:300px;
+        align-items: center;
+        padding-bottom: 50px 
+    }
+   .card-text{font-size: 2rem;
+color: darkblue;}
+#table{width:400px;
+    height:300px;}
+
+#chart{width:300px;
+        height:400px;}
+
+.carousel-item{
+  
+  width:700px;
+  height: 500px;
+  left:50%;
+  top:50%;
+  margin-left:-390px;
+  margin-top:-325px;
+  
+}
+            
+  .carousel-caption{ color: black;
+          }
+#chicken{color: white;}
+
+
